@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\bankapp_refactored_week4\Help Class\bin\Debug\netstandard2.0\Help Class.deps.json
+C:\Users\hp\Desktop\bankapp_refactored_week4\Help Class\bin\Debug\netstandard2.0\Help Class.dll
+C:\Users\hp\Desktop\bankapp_refactored_week4\Help Class\bin\Debug\netstandard2.0\Help Class.pdb
+C:\Users\hp\Desktop\bankapp_refactored_week4\Help Class\obj\Debug\netstandard2.0\Help Class.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\bankapp_refactored_week4\Help Class\obj\Debug\netstandard2.0\Help Class.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\bankapp_refactored_week4\Help Class\obj\Debug\netstandard2.0\Help Class.AssemblyInfo.cs
+C:\Users\hp\Desktop\bankapp_refactored_week4\Help Class\obj\Debug\netstandard2.0\Help Class.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\bankapp_refactored_week4\Help Class\obj\Debug\netstandard2.0\Help Class.dll
+C:\Users\hp\Desktop\bankapp_refactored_week4\Help Class\obj\Debug\netstandard2.0\Help Class.pdb

@@ -1,0 +1,24 @@
+C:\Users\hp\source\repos\BankAccountWeek2\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.deps.json
+C:\Users\hp\source\repos\BankAccountWeek2\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.dll
+C:\Users\hp\source\repos\BankAccountWeek2\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.pdb
+C:\Users\hp\source\repos\BankAccountWeek2\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\BankAccountWeek2\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\BankAccountWeek2\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.AssemblyInfo.cs
+C:\Users\hp\source\repos\BankAccountWeek2\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BankAccountWeek2\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.dll
+C:\Users\hp\source\repos\BankAccountWeek2\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.pdb
+C:\Users\hp\source\repos\BankAccountWeek2\BankLibrary\bin\Debug\netstandard2.0\Utility.dll
+C:\Users\hp\source\repos\BankAccountWeek2\BankLibrary\bin\Debug\netstandard2.0\Utility.pdb
+C:\Users\hp\source\repos\BankAccountWeek2\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.csproj.CopyComplete
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.deps.json
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.dll
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.pdb
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.AssemblyInfo.cs
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.csproj.CopyComplete
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.dll
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.pdb
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankLibrary\bin\Debug\netstandard2.0\Help Class.dll
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankLibrary\bin\Debug\netstandard2.0\Help Class.pdb

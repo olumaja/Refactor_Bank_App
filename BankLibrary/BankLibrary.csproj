@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Help Class\Help Class.csproj" />
+    <ProjectReference Include="..\Utility\Helper Class.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,25 @@
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\Bankapp_refactored_week4.exe
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\Bankapp_refactored_week4.deps.json
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\Bankapp_refactored_week4.runtimeconfig.json
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\Bankapp_refactored_week4.runtimeconfig.dev.json
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\Bankapp_refactored_week4.dll
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\Bankapp_refactored_week4.pdb
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\BankLibrary.dll
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\BankLibrary.pdb
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\obj\Debug\netcoreapp3.1\Bankapp_refactored_week4.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\obj\Debug\netcoreapp3.1\Bankapp_refactored_week4.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\obj\Debug\netcoreapp3.1\Bankapp_refactored_week4.AssemblyInfo.cs
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\obj\Debug\netcoreapp3.1\Bankapp_refactored_week4.csproj.CopyComplete
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\obj\Debug\netcoreapp3.1\Bankapp_refactored_week4.dll
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\obj\Debug\netcoreapp3.1\Bankapp_refactored_week4.pdb
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\obj\Debug\netcoreapp3.1\Bankapp_refactored_week4.genruntimeconfig.cache
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\Help Class.dll
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\bin\Debug\netcoreapp3.1\Help Class.pdb
+C:\Users\hp\Desktop\bankapp_refactored_week4\BankAccountWeek2\obj\Debug\netcoreapp3.1\Bankapp_refactored_week4.csproj.CoreCompileInputs.cache

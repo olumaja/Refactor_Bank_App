@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2WUhwHYUWTxnqOeImdtXU0E4u3C2Z+eTpgRs1SsEoPVBIFvm33JSrfhIdlg44on/eDV9HRo08/OXEUAkYUKQHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\bankapp_refactored_week4\\BankLibrary\\BankLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

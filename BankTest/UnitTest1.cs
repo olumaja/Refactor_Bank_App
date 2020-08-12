@@ -6,7 +6,8 @@ namespace BankTest
 {
     public class BankTest
     {
-
+        
+        //Login test
         [Test]
         public void Login()
         {
@@ -23,6 +24,7 @@ namespace BankTest
             Assert.IsNotNull(existingCustomer.Login(email, password));
         }
 
+        //Registration
         [Test]
         public void Register()
         {
@@ -39,6 +41,7 @@ namespace BankTest
 
         }
 
+        //Transaction
         [Test]
         public void TransactionTest()
         {
@@ -57,20 +60,59 @@ namespace BankTest
             Assert.IsNotNull(bills);
         }
 
+        //Negative deposit
         [Test]
         public void NegativeDeposit()
         {
             //Arrange
-            var remake = "Allowance";
+            var remark = "Allowance";
             decimal amount = -10;
+            string name = "Segun";
+            decimal openingBalance = 1000;
 
-            SavingsAccount myAccount = new SavingsAccount("Segun", 1000, "savings");
+            SavingsAccount myAccount = new SavingsAccount(name, openingBalance, "Initial balance");
             //Act and Assert
             Assert.Throws<ArgumentOutOfRangeException>(
-                    () => myAccount.Deposit(amount, remake, DateTime.Now)
+                    () => myAccount.Deposit(amount, remark, DateTime.Now)
                 );
         }
 
+        //Initial deposit
+        [Test]
+        public void InitialDeposit()
+        {
+            //Arrange
+            var remark = "Opening balance";
+            decimal amount = 10.0M;
+            var name = "Tony";
+
+            //Act and Assert
+            Assert.Throws<InvalidOperationException>(
+                    () => new SavingsAccount(name, amount, remark)
+                );
+        }
+
+        //Transfer
+        [Test]
+        public void Transfer()
+        {
+            //Arrange
+            var remark = "Transfer to account1";
+            decimal amount = 1000;
+            var name = "Paul";
+            var customer = new Customer();
+            var account1 = new SavingsAccount(name, 200, "savings");
+            var account2 = new SavingsAccount(name, 5000, "Salary");
+            decimal expected = 1000;
+
+            //Act
+            decimal actual = account2.Transfer(account1.AccountNumber, amount, remark, DateTime.Now);
+
+            //Assert
+            Assert.AreEqual(expected, actual);
+        }
+
+        //Test for over withdrawal
         [Test]
         public void OverWithdraw()
         {
@@ -86,6 +128,7 @@ namespace BankTest
                 );
         }
 
+        //Negative withdrawal
         [Test]
         public void negativewithdrawal()
         {
@@ -100,15 +143,6 @@ namespace BankTest
                     () => myaccount.Withdrawal(amount, remake, DateTime.Now)
                 );
         }
-
-        //[Test]
-        //public void Transfer()
-        //{
-
-
-
-        //    Assert.Pass();
-        //}
 
     }
 }

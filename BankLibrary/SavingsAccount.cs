@@ -46,7 +46,7 @@ namespace BankLibrary
 
         }
 
-        public decimal Transfer(decimal amount, string remark, DateTime transferDate)
+        public decimal Transfer(string accountNumber, decimal amount, string remark, DateTime transferDate)
         {
 
             var transferSuccessful = false;

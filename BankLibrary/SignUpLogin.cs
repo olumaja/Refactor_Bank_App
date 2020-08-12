@@ -83,11 +83,6 @@ namespace BankLibrary
                     {
                         Console.WriteLine("Login successful");
                         Console.WriteLine();
-
-                        // validateUser = true;
-                        //To implement account transaction
-                        // var creatingAccount = new CreateAccounts(person.FullName());
-                        // break;
                         Console.WriteLine(person.FirstName);
                         return person;
                     }
